@@ -64,7 +64,8 @@ Developed by: NARESH.R
 RegisterNumber:23005559
 
 CODE:
-"C:\Users\ranji\OneDrive\Pictures\Screenshots\IMG-20231125-WA0057.jpg"
+![image](https://github.com/feryjfgkuyfgewjfgew/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150319377/834caa0f-9b2b-4ffe-abbf-abda288c208c)
+
 
  Truthtable
 
