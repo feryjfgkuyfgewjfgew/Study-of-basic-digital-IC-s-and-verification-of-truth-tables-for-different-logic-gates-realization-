@@ -64,22 +64,25 @@ Developed by: NARESH.R
 RegisterNumber:23005559
 
 CODE:
-![image](https://github.com/feryjfgkuyfgewjfgew/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150319377/834caa0f-9b2b-4ffe-abbf-abda288c208c)
+![IMG-20231125-WA0057](https://github.com/feryjfgkuyfgewjfgew/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150319377/dc64daf0-1de5-49fe-a19e-45d6e1df816d)
+
 
 
  Truthtable
 
- "C:\Users\ranji\OneDrive\Pictures\Screenshots\IMG-20231125-WA0058.jpg"
+ ![IMG-20231125-WA0058](https://github.com/feryjfgkuyfgewjfgew/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150319377/35885c21-68cc-47f2-a16c-539fb99a760f)
+
 
  RTL DIAGRAM
 
- "C:\Users\ranji\OneDrive\Pictures\Screenshots\IMG-20231125-WA0056.jpg"
+ ![IMG-20231125-WA0056](https://github.com/feryjfgkuyfgewjfgew/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150319377/4835fd2b-3856-4eb4-893b-3edceac54934)
+
 
 RTL realization
 Output:
 
-"C:\Users\ranji\OneDrive\Pictures\Screenshots\IMG-20231125-WA0055.jpg"
-RTL
+![IMG-20231125-WA0055](https://github.com/feryjfgkuyfgewjfgew/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150319377/197b9b19-a2f7-4521-b2c4-70118421e2d6)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
